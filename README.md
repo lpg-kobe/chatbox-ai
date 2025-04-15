@@ -2,6 +2,8 @@
 
 You can rigister and [create apikey](https://openrouter.ai/settings/keys) in platform to use page like this
 
+```markdown
 ![Enter apikey](apikey.png)
 
 ![Start chat](chat.png)
+```
